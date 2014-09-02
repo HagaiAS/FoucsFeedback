@@ -10,7 +10,7 @@ eventsApp.controller('EditEventController',
         };
 
         $scope.cancelEdit = function() {
-            window.location = "/EventDetails.html";
+            window.location = "/index.html";
         }
     }
 );
